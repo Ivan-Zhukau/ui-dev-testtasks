@@ -1,0 +1,17 @@
+.details-red{
+    background-color: #d8464c;
+    width: 400px;
+    height: 700px;
+}
+
+.details-dark-blue{
+    background-color: #364f86;
+    width: 300px;
+    height: 600px;
+}
+
+.details-blue{
+    background-color: #0089b2;
+    width: 200px;
+    height: 500px;
+}
